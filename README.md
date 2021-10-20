@@ -11,7 +11,7 @@ We selected [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-d
 <img align="middle" alt="Python" width="350" src="https://user-images.githubusercontent.com/78056833/138011652-7a5f2545-73d0-4bfa-abbc-247af684ee1d.png" />
 
 ## Machine Learning Techniques
-1. K-Means Clustering
+1. K-Means and K-Modes Clustering
 2. Hierachical Clustering
 3. Apriori Algorithm for association rules mining
 4. Apriori Algorithm for subsets of data (genre of movie)
