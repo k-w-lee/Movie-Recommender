@@ -12,7 +12,9 @@ We selected [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-d
 
 ## Machine Learning Techniques
 1. K-Means Clustering
-2. Apriori Algorithm for association rules mining
+2. Hierachical Clustering
+3. Apriori Algorithm for association rules mining
+4. Apriori Algorithm for subsets of data (genre of movie)
 
 ## Team Presentation
 You can view the team presentation via this [link](https://spark.adobe.com/page/5LdV3RV1i3Ubk/)
@@ -20,3 +22,5 @@ You can view the team presentation via this [link](https://spark.adobe.com/page/
 ## How the system will looks like in real world
 <img width="664" alt="movie" src="https://user-images.githubusercontent.com/78056833/138011033-c014a787-178d-4287-90c0-e4a9a23b7d58.png">
 
+## Conclusion
+K-Means and K-Modes clustering are chosen to cluster similar movies together. By having these clusters, it helps service provider to manage their contents more efficiently, and it also enables users to choose their favorite movies easily. Furthermore, by using association rules, we discovered a lot of rules with high lift that can be used to recommend the right movies to the users. So, the overall users experience will improve. The figure below shows a movie recommender system interface to a audience who has watched "The Sixth Sense".
